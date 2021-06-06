@@ -1,0 +1,1 @@
+# captainify-meilisearch
