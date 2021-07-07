@@ -40,6 +40,10 @@ async function getAllSongsForHome() {
           thumbnail {
             url
           }
+          tags {
+            name
+          }
+          keywords
           author {
             name
             picture {
